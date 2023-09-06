@@ -69,8 +69,10 @@ docker-compose up
 #### Запускаем скрипты
 
 ```bash
-python models.py <br>
+python models.py 
+```
 
+```bash
 python main.py
 ```
 
