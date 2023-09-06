@@ -55,16 +55,25 @@
 
 # Запуск
 
-## Устанавливаем необходимые пакеты
-<code> pip install -r requirements.txt </code>
+#### Установить зависимости:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Запускаем контейнер с БД
-<code> docker-compose up </code>
+```bash
+docker-compose up 
+```
 
 ## Запускаем скрипты
 
-<code> python models.py </code> <br>
-<code> python main.py </code>
+```bash
+python models.py
+``` <br>
+```bash
+python main.py
+```
 
 Результатом работы будет: <br>
 1) скрипт миграции базы данных <br>
