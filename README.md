@@ -61,12 +61,12 @@
 pip install -r requirements.txt
 ```
 
-#### Запускаем контейнер с БД
+#### Запустить контейнер с БД
 ```bash
 docker-compose up 
 ```
 
-#### Запускаем скрипты
+#### Запустить скрипты
 
 ```bash
 python models.py 
