@@ -61,9 +61,9 @@
 ## Запускаем контейнер с БД
 <code> docker-compose up </code>
 
-## Запускаем скрипт
+## Запускаем скрипты
 
-<code> python models.py </code>
+<code> python models.py </code> <br>
 <code> python main.py </code>
 
 Результатом работы будет: <br>
