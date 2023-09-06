@@ -62,6 +62,7 @@
 <code> docker-compose up </code>
 
 ## Запускаем скрипт
+
 <code> python models.py </code>
 <code> python main.py </code>
 
